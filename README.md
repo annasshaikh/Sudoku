@@ -1,4 +1,4 @@
-# Sudoku Solver
+# Sudoku
 A command-line Java program that lets you play Sudoku. It allows you to enter a digit at a position and solves the Sudoku puzzle by iteratively updating the game board.
 
 The game board is printed in the console with different colors for initial system entries and user inputs. When the game is solved, it prints the solved board.
